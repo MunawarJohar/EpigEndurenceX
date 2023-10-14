@@ -8,15 +8,6 @@ Satın almak için aşağıdaki linke tıklayabilirsiniz:
 
 [Shoper Mağazasına Git ve Satın Al](https://www.shopier.com/ShowProductNew/products.php?id=19967500)
 
-```link-bookmark
-url:https://www.shopier.com/19967500 
-title:The Rational Male - Türkçe 
-description:Kredi kartı ile güvenli şekilde alışveriş yapmak için tıklayın
-coverImg:https://cdn.shopier.app/pictures_mid/EpigeneticEnduranceX_e6d8969bdf56ee3ba764febac2ca9690.jpg
-logo:images/favicons/apple-touch-icon.png
-```
-
-
 The Rational Male: 
 
 Erkekler ve Kadınlar Arasındaki Cinsel Pazardaki Güç Dinamikleri 
