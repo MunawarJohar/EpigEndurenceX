@@ -6,6 +6,8 @@ The Rational Male kitabı Türkçe olarak çıktı!
 
 Satın almak için aşağıdaki linke tıklayabilirsiniz: 
 
+[https://www.shopier.com/ShowProductNew/products.php?id=19967500]()
+
 [[Ana Sayfa/Beni Oku\|Beni Oku]]
 
 ```link-bookmark
