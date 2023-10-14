@@ -8,8 +8,6 @@ Satın almak için aşağıdaki linke tıklayabilirsiniz:
 
 [Shoper Mağazasına Git ve Satın Al](https://www.shopier.com/ShowProductNew/products.php?id=19967500)
 
-[[Ana Sayfa/Beni Oku\|Beni Oku]]
-
 ```link-bookmark
 url:https://www.shopier.com/19967500 
 title:The Rational Male - Türkçe 
