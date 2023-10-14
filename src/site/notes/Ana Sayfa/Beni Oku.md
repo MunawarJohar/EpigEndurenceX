@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","noteIcon":""}
 ---
 
 The Rational Male kitabı Türkçe olarak çıktı! 
