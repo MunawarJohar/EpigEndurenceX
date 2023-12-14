@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-15T02:33:59.178+03:00"}
+{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-15T02:35:49.132+03:00"}
 ---
 
 
 
-**6000-9500 TL arası [Akakçe'de](https://www.akakce.com/arama/?q=ofis+makam+tak%C4%B1m%C4%B1&p1=6000&p2=9500) bulunan ofis mobilyaları bunlar. 
+6000 - 9500 TL arası [Akakçe'de](https://www.akakce.com/arama/?q=ofis+makam+tak%C4%B1m%C4%B1&p1=6000&p2=9500) bulunan ofis mobilyaları bunlar. 
 
 
 <font color="#ffff00">Daha aşağısı Trendyol, n11 ve Hepsiburada VE BENZERİ gibi platformlarda bulunmuyor.</font>**
