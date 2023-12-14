@@ -1,53 +1,87 @@
 ---
-{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-04T01:27:10.306+03:00"}
+{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-15T02:30:50.291+03:00"}
 ---
 
-The Rational Male kitabı Türkçe olarak çıktı! 
 
-Satın almak için aşağıdaki linke tıklayabilirsiniz: 
 
-[Shoper Mağazasına Git ve Satın Al](https://www.shopier.com/ShowProductNew/products.php?id=19967500)
+**6000-9500 TL arası [Akakçe'de](https://www.akakce.com/arama/?q=ofis+makam+tak%C4%B1m%C4%B1&p1=6000&p2=9500) bulunan ofis mobilyaları şunlardır. 
+<font color="#ffff00">Daha aşağısı Trendyol, n11 ve Hepsiburada VE BENZERİ gibi platformlarda bulunmuyor.</font>**
 
-The Rational Male: 
+**Sahibinden'de 8000 TL'ye kadar olan ofis mobilyalarında dosya dolabı seçeneği bulunmuyor. 
+Bu fiyatlarda 3 koltuk, bir orta sehpa ve patron koltuğu var.**
 
-Erkekler ve Kadınlar Arasındaki Cinsel Pazardaki Güç Dinamikleri 
+**Samsun'daki firmalarda bulunan ve makam koltuğu olmayan ofis mobilyaları 8000 TL civarındadır. 
+Bu fiyatlar da senin için uygun olmayabilir.**
 
-Sonunda, Rollo Tomassi'nin The Rational Male kitabı Türkçe olarak okuyucularla buluşuyor. The Rational Male, erkekler ve kadınlar arasındaki cinsel pazardaki güç dinamiklerini inceleyen bir kitaptır. Tomassi, kadın ve erkek davranışlarını, evrimsel psikoloji, sosyoloji ve tarih gibi çeşitli disiplinlerin ışığında ele alıyor. Kitap, 12 bölümden oluşuyor ve her bölümde farklı bir konu ele alınıyor. 
+<font color="#ffff00">8.000 LİRANIN ÜSTÜNE ÇIKMAK ŞARTIYLA HER YERDEN STANDART OFİS TAKIMI ALABİLİRSİN...</font>
+SENİN İSTEDİĞİN FİYATLAR MAKSİMUM 6.500 LİRAYA KADAR VAR.
 
-Başlıklar ve özetler şu şekildedir: 
+**ONLAR DA BU ŞİRKETLER:**
 
-• Bölüm 1: Giriş o Erkek ve kadın davranışlarını anlamanın önemi o Eleştirel düşünme ve rasyonellik o Evrimsel psikoloji ve cinsel pazar 
++ ÖZMEN
++ OFİSSAM
+### EN UCUZUN DA UCUZU DERSEN AL SANA BUNLAR VAR:
 
-• Bölüm 2: Kadınların Doğası o Kadınların cinsel stratejileri o Kadınların duygusal ihtiyaçları o Kadınların kıskançlık ve sahiplenme duyguları 
+[2.099 TL](https://www.trendyol.com/lagomood/irony-maxi-ofis-masa-takimi-antrasit-ceviz-p-446484252 ) 
 
-• Bölüm 3: Erkeklerin Doğası o Erkeklerin cinsel stratejileri o Erkeklerin duygusal ihtiyaçları o Erkeklerin liderlik ve koruma içgüdüleri 
+YANINA BİR TANE DE KOLTUK ALIRSIN İKİ KOLTUK AYRICA KENDİ KOLTUGUNLA 3 OLUR.
 
-• Bölüm 4: Cinsel Pazar o Cinsel pazarın temelleri o Cinsel pazarda rekabet o Cinsel pazarda statü ve çekicilik • Bölüm 5: Flört ve Baştan Çıkarma o Flörtün temelleri o Baştan çıkarmanın teknikleri o Flört ve baştan çıkarmanın püf noktaları 
+[BU OFİS TAKIMLARI ÇOK UCUZ](https://www.trendyol.com/sr?mid=344310&wc=149402&os=1) 4000 LİRA FİYAT
 
-• Bölüm 6: İlişkiler o İlişkilerin temelleri o İlişkilerde uyum o İlişkilerde çatışma ve anlaşmazlık 
+[3.949]() Fiyatına göre çok iyi duruyor - yorumlar da fena değil - alanların çektiği resimlere de bak 
 
-• Bölüm 7: Evlilik o Evliliğin temelleri o Evlilikte uyum o Evlilikte çatışma ve anlaşmazlık 
+<font color="#ffff00">2-3 TAKIM ŞEKLİNDE KOLTUKLARDA VAR 2-3 BİN LİRA FİYATLI </font>
+<font color="#ffff00">BİRAZ DAHA BAKARSAN DAHA UYNUNUNU DA BULURSUN. </font>
+<font color="#ffff00">BU ŞEKİLDE TOPLAMA ALMIŞ 6 VEYA 6.500 LİRAYA ALMIŞ OLURSUN.</font>
 
-• Bölüm 8: Aldatma ve Ayrılık o Aldatma ve ayrılığın nedenleri o Aldatma ve ayrılıktan sonra 
+# SAMSUN BÖLGESİ UYGUN SEÇENEKLER:
 
-• Bölüm 9: Erkeklik o Erkekliğin temelleri o Modern dünyada erkeklik o Erkekliğin geleceği 
+## Büropark- Samsun/Canik - Fiyat Paylaşılmamış
 
-• Bölüm 10: Sonuç 
+[Büropark ürünleri](https://www.buropark.com.tr/urunler/personel-ve-coklu-calisma-grubu)
 
-o The Rational Male'in mesajı The Rational Male, erkekler için bir başucu kitabıdır. Erkeklerin cinsel pazarda başarılı olmalarına ve daha iyi ilişkiler kurabilmelerine yardımcı olacak değerli bilgiler sunar. Kitap, Türkçeye çevrilmesi için yoğun talep gören bir kitaptı. Çeviri ekibi, kitabı mümkün olduğunca doğru ve anlaşılır bir şekilde aktarmak için büyük çaba gösterdi. 
+<font color="#ffff00">0362 228 64 90 </font>
+### Samsun Canik'te 
 
-The Rational Male'i okuyarak, kadın ve erkek davranışlarını daha iyi anlayabilir, cinsel pazarda daha başarılı olabilir ve daha iyi ilişkiler kurabilirsiniz. 
+Yenimahalle, 11. Sk. 15-1, 55080 Canik/Samsun
+### Özmen Ofis Mobilyaları 
 
-The Rational Male, erkekler için bir başucu kitabıdır. Erkeklerin cinsel pazarda başarılı olmalarına ve daha iyi ilişkiler kurabilmelerine yardımcı olacak değerli bilgiler sunar. Kitap, Türkçeye çevrilmesi için yoğun talep gören bir kitaptı. Çeviri ekibi, kitabı mümkün olduğunca doğru ve anlaşılır bir şekilde aktarmak için büyük çaba gösterdi. 
+<font color="#ffff00">0544 434 42 33</font>
+## [Esko Kromajlı Takım](https://ozmenofis.com/urun/esko-kromajli-takim)
 
-The Rational Male'i okuyarak, kadın ve erkek davranışlarını daha iyi anlayabilir, cinsel pazarda daha başarılı olabilir ve daha iyi ilişkiler kurabilirsiniz. 
+<font color="#ffff00">6.500,00 </font>
+## [Zirve Takım](https://ozmenofis.com/urun/esko-zirve-takim)
 
-Bu kitap, şu kişiler için idealdir: 
+<font color="#ffff00">8.500</font>
+## [FİLELİ SET](https://ozmenofis.com/urun/esko-fileli-set)
 
-• Cinsel pazarda başarılı olmak isteyen erkekler 
+<font color="#ffff00">6.250,00 TL</font>
 
-• Daha iyi ilişkiler kurmak isteyen erkekler • Kadın ve erkek davranışlarını daha iyi anlamak isteyen erkekler Bu kitabı okuduğunuza kesinlikle pişman olmayacaksınız. ________________________________________ 
+# OFİSSAM - ÖZEL ÜRETİM DE VAR - SAMSUN/CANİK 
 
-Pek yakında, The Rational Male serisinin devamı da Türkçeye çevrilecektir. Ayrıca, Pua anlamında da bütün önemli önemsiz gündemde olan vs ne kadar kitap varsa ne kadar kutsal bu alanlarda kitap varsa hepsinin çevirilerinin yapılacağını da belirtmemiz gerekir. Bu kitaplarla, erkeklerin kişisel gelişimleri ve ilişkileri konusunda daha da bilgi sahibi olmaları sağlanacaktır. 
+Eksileri : <font color="#ffff00">Nakliye senden</font>...
+Yakın mesafe ben alırım dersen ararsın...
 
-Satın almak için aşağıdaki linke tıklayabilirsiniz: 
+[ofiSSam ](https://www.sahibinden.com/ilan/ikinci-el-ve-sifir-alisveris-ofis-kirtasiye-ofis-mobilyalari-ofissam-farkiyla-artemis-ofis-takimi-koltuklar-dahil-1103624404/detay) sahibinden ilanı - İsteğine özel üretim de var.
+Websitesi: [ofissam](https://ofissam.com.tr/)
+
+<font color="#ffff00">0 362 230 00 35</font>
+<font color="#ffff00">0 543 269 51 58</font>
+# SAMSUN/CANİK - BAŞKENTOFİS
+
+[Başkent Ofis Ürünleri](https://www.baskentofis.com/urunler/) 
+
+<font color="#ffff00">0 545 828 22 22</font>
+
+<font color="#ffff00">Pahalı olabileceğini düşünüyorum. </font>
+<font color="#ffff00">FİYATLAR PAYLAŞILMAMIŞ.</font>
+# TÜRKİYE ÇAPINDA EN UYGUN SEÇENEKLER
+
+[YURU DESİGN](https://www.yurudesign.com.tr/urun-kategori/ofis-calisma-odasi/ofis-takimi) 
+
+YURU DESİGN'DA ÇOK SEÇENEK VAR FAKAT <font color="#ffff00">KOLTUKLAR YOK</font>
+
+
+
+<mark style="font-size: 28px; background-color: #fff88f; color: black">BENDEN BU KADAR 
+BOL ŞANS !!</mark>
