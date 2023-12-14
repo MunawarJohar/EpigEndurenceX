@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-15T02:30:50.291+03:00"}
+{"dg-publish":true,"permalink":"/ana-sayfa/beni-oku/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-19T04:20:15.323+03:00","updated":"2023-12-15T02:33:15.277+03:00"}
 ---
 
 
@@ -82,6 +82,5 @@ Websitesi: [ofissam](https://ofissam.com.tr/)
 YURU DESİGN'DA ÇOK SEÇENEK VAR FAKAT <font color="#ffff00">KOLTUKLAR YOK</font>
 
 
-
-<mark style="font-size: 28px; background-color: #fff88f; color: black">BENDEN BU KADAR 
-BOL ŞANS !!</mark>
+BENDEN BU KADAR 
+BOL ŞANS !!
